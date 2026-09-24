@@ -7,30 +7,30 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `[Miriam Fernanda Alves de Oliveira]` `[Sabrina Alves de Souza]`
+- Data de início: `[23/09/2026]`
 
 ## Preenchimento
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[Impacto Social e Privacidade]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[O impacto na falta de privacidade infantojuvenil no meio digital.]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `[A falta de privacidade no meio digital para crianças e adolescentes]`
+- Objeto estudado: `[Privacidade de Crianças e Adolescentes]`
+- Contexto ou aplicação: `[A exposição direta ou indireta de crianças e adolescentes nas redes sociais.]`
+- Aspecto que será analisado: `[Venda de Imagem das crianças e Adolescentes]`
+- O que ficará fora do estudo: `[Pedofilia]`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[A importância de proteger as crianças de terem suas imagens vendidas no meio digital e usadas de forma inadequada, com ou sem permissão direta dos responsáveis. O que impacta diretamente da privacidade daquela criança ou adolescente no seu dia a dia ou futuramente pela exposição que ela sofreu.]`
 
 ### Viabilidade
 

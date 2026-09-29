@@ -30,13 +30,13 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Justificativa
 
-`[A importância de proteger as crianças de terem suas imagens vendidas no meio digital e usadas de forma inadequada, com ou sem permissão direta dos responsáveis. O que impacta diretamente da privacidade daquela criança ou adolescente no seu dia a dia ou futuramente pela exposição que ela sofreu.]`
+`[A importância de proteger as crianças de terem suas imagens vendidas no meio digital e usadas de forma inadequada, com ou sem permissão direta dos responsáveis. O que impacta diretamente na privacidade daquela criança ou adolescente no seu dia a dia ou futuramente pela exposição que ela sofreu.]`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `[Sim]`
+- O tema pode ser estudado no prazo? `[Sim]`
+- O grupo possui acesso às fontes necessárias? `[Sim]`
 
 ## Produto da etapa
 

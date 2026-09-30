@@ -30,7 +30,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Justificativa
 
-`[A escolhe se deu pela importância de proteger as crianças de terem suas imagens vendidas no meio digital e usadas de forma inadequada, com ou sem permissão direta dos responsáveis. O que impacta diretamente na privacidade daquela criança ou adolescente no seu dia a dia ou futuramente pela exposição que ela sofreu.]`
+`[A escolha se deu pela importância de proteger as crianças de terem suas imagens vendidas no meio digital e usadas de forma inadequada, com ou sem permissão direta dos responsáveis. O que impacta diretamente na privacidade daquela criança ou adolescente no seu dia a dia ou futuramente pela exposição que ela sofreu.]`
 
 ### Viabilidade
 

@@ -25,8 +25,8 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 - Tema amplo: `[A falta de privacidade de crianças e adolescentes no meio digital]`
 - Objeto estudado: `[Privacidade de Crianças e Adolescentes]`
 - Contexto ou aplicação: `[A exposição direta ou indireta de crianças e adolescentes nas redes sociais.]`
-- Aspecto que será analisado: `[Venda de Imagem das crianças e Adolescentes nas redes sociais e seu impacto na privacidade]`
-- O que ficará fora do estudo: `[Pedofilia e outros crimes de natureza sexual]`
+- Aspecto que será analisado: `[Impacto na privacidade das crianças e Adolescentes nas redes sociais e a venda de Imagem]`
+- O que ficará fora do estudo: `[Outros crimes]`
 
 ### Justificativa
 

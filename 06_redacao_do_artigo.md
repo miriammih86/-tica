@@ -8,11 +8,11 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 # Título
 
-`[Título claro e coerente com o tema]`
+`[O Excesso de Exposição Infantil nas Redes Sociais: Entre o Sharenting, a Exploração Comercial e a Adultização Digital]`
 
 ## Palavras-chave
 
-`[palavra 1]; [palavra 2]; [palavra 3]`
+`[Sharenting]; [Direito da Personalidade]; [Adultização Digital]`
 
 ## Introdução
 

@@ -16,7 +16,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Introdução
 
-`[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo.]`
+`[Com o crescimento da era digital, a exposição de crianças e adolescentes nas redes sociais atraves dos próprios pais se tornou uma prática recorrente. Embora muitas vezes ocorra por meio de afeto, gerando também cenarios de exposição extrema e monetização. O grande problema dessa pesquisa está em entender em que medida o Sharenting sem controle e comercial viola os direitos fundamentais da criança. .]`
 
 ## Metodologia
 

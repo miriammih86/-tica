@@ -48,7 +48,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 `[Esta pesquisa analisa os impactos da superexposição de crianças nas redes sociais praticada pelos próprios pais. O objetivo foi investigar como o sharenting e a monetização de conteúdos violam os direitos do menor. A metodologia fundamentou-se em uma revisão integrativa de obras publicadas entre 2021 e 2026. Os resultados indicam que a exposição excessiva fere os direitos da personalidade, estimula a adultização precoce e pode configurar trabalho infantil informal. Conclui-se que é indispensável impor limites ao poder familiar e aprimorar a fiscalização no ambiente virtual.]`
 
-## Referências
+ ## Referências
 
 `[BERTI, Luiza Gabriella; FACHIN, Zulmar Antonio. Sharenting: violação do direito de imagem das crianças e adolescentes pelos próprios genitores na era digital. Revista de Direito de Família e Sucessão, v. 7, n. 1, p. 95-115, 2021.]`
 

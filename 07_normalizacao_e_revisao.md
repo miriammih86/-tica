@@ -7,7 +7,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 ## Identificação
 
 * Título do artigo: `[Os Limites do Poder Familiar na Era Digital: Análise do Sharenting, da Exploração Comercial e da Adultização Infantil]`
-* Versão revisada: `[número]`
+* Versão revisada: `[1]`
 * Data: `[12/10/2026]`
 * Responsável pela conferência final: `[Miriam Fernanda Alves de Oliveira]` `[Sabrina Alves de Souza]`
 
@@ -47,7 +47,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`[preencher]`|`[preencher]`|`[preencher]`|`[nome]`|
+|`[Resumo]`|`[Tamanho do texto, muitas palavras]`|`[Diminuimos as palavras]`| `[Miriam Fernanda Alves de Oliveira]` `[Sabrina Alves de Souza]`|
 
 
 

@@ -16,33 +16,33 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Introdução
 
-`[O avanço do ambiente virtual transformou o compartilhamento da rotina de crianças e adolescentes em uma prática comum entre pais e responsáveis. Contudo, essa exposição muitas vezes ultrapassa o afeto e alcança níveis de superexposição e mercantilização. A problemática da pesquisa consiste em investigar de que maneira a prática desmedida do sharenting viola os direitos fundamentais do menor. A relevância do tema justifica-se pela necessidade de delimitar o exercício do poder familiar diante do princípio do melhor interesse da criança. O estudo tem como objetivo examinar os desdobramentos jurídicos e comportamentais causados pela exposição infantil nas mídias sociais.]`
+`[O crescimento da internet fez com que pais e responsáveis passassem a publicar com frequência a vida de crianças e jovens. Porém, essa prática costuma ir além do afeto, transformando-se em superexposição e exploração comercial. Este estudo busca responder como o excesso de sharenting fere os direitos fundamentais do menor. A pesquisa se justifica pela necessidade de limitar o poder familiar para garantir o melhor interesse da criança, analisando as consequências jurídicas e comportamentais dessa presença constante nas redes sociais.]`
 
 ## Metodologia
 
-`[Trata-se de uma revisão integrativa de abordagem qualitativa, realizada por meio de buscas em repositórios científicos no período de 2021 a 2026. Foram empregados os descritores "Sharenting", "direito de imagem", "trabalho infantil digital" e "adultização". Selecionaram-se três produções acadêmicas centrais que abordavam diretamente os conflitos entre a autoridade parental e a privacidade do menor no meio virtual, cujas informações foram sintetizadas de forma comparativa.]`
+`[Trata-se de uma pesquisa bibliográfica de caráter qualitativo, com buscas feitas em bases de dados científicas entre 2021 e 2026. Para encontrar os estudos, foram utilizadas as palavras-chave 'Sharenting', 'direito de imagem', 'trabalho infantil digital' e 'adultização'. A partir disso, foram selecionados três trabalhos acadêmicos principais que discutem diretamente os conflitos entre o poder dos pais e a privacidade dos filhos na internet, organizando os dados de forma comparativa.]`
 
 ## Revisão da literatura
 
 ### `[Violação do Direito à Privacidade e Responsabilidade Parental]`
 
-`[Berti e Fachin (2021) e Oliveira e Natividade (2026) concordam que os direitos da personalidade do menor são indisponíveis. Pela ótica do Direito de Família, Berti e Fachin (2021) defendem que o poder familiar é um dever de proteção e não concede aos genitores o direito irrestrito de expor a imagem dos filhos nas redes. Complementando esse entendimento, Oliveira e Natividade (2026) utilizam a Lei Geral de Proteção de Dados (LGPD) para demonstrar que a divulgação contínua de informações pessoais expõe os menores a vulnerabilidades e riscos no ambiente online.]`
+`[Berti e Fachin (2021) e Oliveira e Natividade (2026) concordam que o direito à imagem e à privacidade da criança é garantido pela lei e inviolável. Para Berti e Fachin (2021), a responsabilidade dos pais é de proteção, sem autorizar a superexposição nas redes sociais. Completando a análise, Oliveira e Natividade (2026) explicam, com base na LGPD, que compartilhar a vida dos filhos constantemente gera riscos reais para os menores no mundo digital.]`
 
 ### `[Monetização, Exploração Comercial e Trabalho Infantil]`
 
-`[Ao distinguir a publicação afetuosa do uso lucrativo da imagem, Yoneda (2024) sustenta que a monetização da rotina infantil supera o sharenting convencional, podendo caracterizar trabalho infantil artístico sem o devido respaldo legal. Respaldada pela Súmula 403 do STJ, a autora ressalta a obrigação de indenizar pelo uso comercial de imagem não autorizado. Enquanto as demais pesquisas analisam a privacidade em um contexto geral, Yoneda evidencia que a presença de marcas transforma a criança em bem econômico, exigindo o amparo do Direito do Trabalho e da Responsabilidade Civil.]`
+`[Ao diferenciar a postagem afetuosa do uso comercial da imagem, Yoneda (2024) defende que lucrar com a rotina dos filhos vai além do sharenting comum, podendo até se configurar como trabalho infantil artístico sem autorização legal. Apoiada na Súmula 403 do STJ, a autora lembra que o uso da imagem para fins comerciais exige indenização quando não for autorizado. Enquanto outros autores tratam a privacidade de forma geral, Yoneda destaca que a presença de marcas transforma a criança em um produto, exigindo a aplicação do Direito do Trabalho e da Responsabilidade Civil.]`
 
 ### `[Adultização Digital e Riscos Psicossociais]`
 
-`[Oliveira e Natividade (2026) abordam os impactos no desenvolvimento ao tratarem do fenômeno da adultização digital. As autoras explicam que a busca por curtidas e a dinâmica dos algoritmos estimulam comportamentos e vestimentas precoces em crianças, resultando no salto involuntário de fases da infância. Essa visão alinha-se aos alertas de Berti e Fachin (2021) sobre ameaças como o cyberbullying e o acesso por terceiros mal-intencionados, expondo a omissão de fiscalização por parte das plataformas e do Poder Público.]`
+`[Oliveira e Natividade (2026) tratam dos impactos do sharenting ao explicarem o fenômeno da adultização digital. As autoras mostram que a busca por curtidas e o funcionamento dos algoritmos incentivam crianças a adotarem comportamentos e roupas inadequadas para a idade, fazendo com que pulem fases da infância involuntariamente. Esse ponto se alinha aos alertas de Berti e Fachin (2021) sobre perigos como o cyberbullying e o acesso de pessoas mal-intencionadas, evidenciando também a falta de fiscalização por parte das plataformas e do governo..]`
 
 ### Síntese crítica
 
-`[Observa-se na literatura a urgência em conter o exercício abusivo do poder familiar no meio digital. Embora os estudos adotem recortes distintos — abrangendo a perspectiva familiar, a exploração comercial ou os efeitos psicossociais —, todos convergem na defesa da proteção integral da criança e denunciam a carência de mecanismos automáticos de fiscalização por parte das plataformas virtuais.]`
+`[Os estudos analisados reforçam que é urgente impor limites à exposição de crianças pelos pais na internet. Mesmo abordando ângulos diferentes (familiar, econômico ou psicológico), todos os trabalhos defendem a proteção total dos filhos e criticam a omissão das plataformas digitais na fiscalização dessas publicações.]`
 
 ## Considerações finais
 
-`[Conclui-se que o sharenting, sobretudo quando associado a fins lucrativos, afronta o direito fundamental à privacidade e o desenvolvimento saudável do menor. O estudo reforça que a autoridade parental deve servir à proteção da infância, e não à sua exploração. Como limitação, destaca-se a ausência de análises empíricas. Recomenda-se para trabalhos futuros a elaboração de normas direcionadas ao trabalho de influenciadores mirins e a responsabilização efetiva das Big Techs.]`
+`[Os estudos analisados reforçam que é urgente impor limites à exposição de crianças pelos pais na internet. Mesmo abordando ângulos diferentes (familiar, econômico ou psicológico), todos os trabalhos defendem a proteção total dos filhos e criticam a omissão das plataformas digitais na fiscalização dessas publicações.]`
 
 ## Resumo
 

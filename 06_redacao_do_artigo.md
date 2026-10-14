@@ -38,7 +38,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ### Síntese crítica
 
-`[Os estudos analisados reforçam que é urgente impor limites à exposição de crianças pelos pais na internet. Mesmo abordando ângulos diferentes (familiar, econômico ou psicológico), todos os trabalhos defendem a proteção total dos filhos e criticam a omissão das plataformas digitais na fiscalização dessas publicações.]`
+`[Os estudos analisados reforçam que é urgente impor limites à exposição de crianças pelos pais e responsaveis na internet. Mesmo abordando ângulos diferentes (familiar, econômico ou psicológico), todos os trabalhos defendem a proteção total dos filhos e criticam a omissão das plataformas digitais na fiscalização dessas publicações.]`
 
 ## Considerações finais
 
@@ -46,7 +46,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Resumo
 
-`[Esta pesquisa analisa os impactos da superexposição de crianças nas redes sociais praticada pelos próprios pais. O objetivo foi investigar como o sharenting e a monetização de conteúdos violam os direitos do menor. A metodologia fundamentou-se em uma revisão integrativa de obras publicadas entre 2021 e 2026. Os resultados indicam que a exposição excessiva fere os direitos da personalidade, estimula a adultização precoce e pode configurar trabalho infantil informal. Conclui-se que é indispensável impor limites ao poder familiar e aprimorar a fiscalização no ambiente virtual.]`
+`[Esta pesquisa analisa os impactos da superexposição de crianças nas redes sociais praticada pelos próprios pais e responsáveis. O objetivo foi investigar como o sharenting e a monetização de conteúdos violam os direitos do menor, e como isso afeta o comportamento delas, fazendo com que muitas crianças deixem de lado uma fase importante da infância para viver no meio digital, além de colocar essas crianças em perigo pela alta exposição deixando elas reféns de pessoas mal intencionadas, a aprovação de conteúdo infantil na internet deveria ter uma fiscalização maior pelas plataforma de redes sociais para evitar o excesso dessas exposições e garantir que as crianças sejam protegidas de terem seus dados e informações divulgadas, assim evitando que corram perigo. A metodologia fundamentou-se em uma revisão integrativa de obras publicadas entre 2021 e 2026. Os resultados indicam que a exposição excessiva fere os direitos da personalidade, estimula a adultização precoce e pode configurar trabalho infantil informal. Conclui-se que é indispensável impor limites ao poder familiar e aprimorar a fiscalização no ambiente virtual.]`
 
  ## Referências
 
